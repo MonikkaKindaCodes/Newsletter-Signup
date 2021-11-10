@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Work+Sans:wght@300&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(./Background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Work Sans", sans-serif;
+}
+
+.container {
+  background-color: #fff;
+  width: 500px;
+}
+
+h1 {
+  background-image: url(./Pattern.png);
+  background-color: #2355f2;
+  color: #fff;
+  font-size: 32px;
+  font-weight: 800;
+}
